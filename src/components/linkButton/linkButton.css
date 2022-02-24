@@ -1,0 +1,8 @@
+.linkButton {
+  height: 30px;
+  background-color: rgba(255, 255, 255, 0);
+  color: #1DA57A;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
